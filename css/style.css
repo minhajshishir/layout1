@@ -1,0 +1,42 @@
+.header{
+	min-height: 200px;
+	
+	background-color:red;
+	overflow: hidden;
+}
+.box{
+overflow: hidden;
+border: 5px solid green;
+	
+}
+
+.blog{
+
+	min-height: 300px;
+	background-color: yellow;
+	width: 63.9%;
+	float: left;
+	border: 5px solid skyblue;
+
+}
+.contact{
+
+	min-height: 300px;
+	background-color :blue;
+	width: 35%;
+	float:right;
+	border: 5px solid skyblue;
+}
+.footer{
+	min-height: 200px;
+	background-color :black;
+	overflow: hidden;
+	
+	
+}
+h1{
+	text-align: center;
+	margin-top: 30px;
+	color: white;
+
+}
